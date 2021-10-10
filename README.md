@@ -23,8 +23,8 @@ The users are teachers who use Microsoft Teams as the platform for online classe
 
 4.[Prototypes and resources](link "Prototypes and resources")
 
-♦ [Project Logs](link "Project Logs")
+♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
 
-♦ [Schedule, Team Roles & Team Process](link "Schedule")
+♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process)
 
 ♦ [First Deadline](link "First Deadline")
