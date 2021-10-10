@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/ProjectCosmos_LogoAlfa.jpg)
 
-## Autors ✒️
+## Authors ✒️
 * **Edwin Alonso Andrade Ac** - [@Edwin-Lines](https://github.com/Edwin-Lines "@Edwin-Lines")
 * **Fernan Cetina Escalante** - [@FernanCetinaE](https://github.com/FernanCetinaE "@FernanCetinaE") 
 * **Karyme Maylin Bautista Poot** - [@karyme-hub](https://github.com/karyme-hub "@karyme-hub")
