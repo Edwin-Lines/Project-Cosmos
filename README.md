@@ -15,14 +15,16 @@
 The users are teachers who use Microsoft Teams as the platform for online classes that want students to have an extra way to motivate themselves by reading positive stories or experiences from a personal or academic point of view while seeing possible advice that could be taken from them.
 
 ## Index
-1.[Objectives](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/1.%20Objectives.md "Objectives")
+1.[Requeriments](link "Requeriments")
 
-2.[Cronogram](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/2.%20Cronogram.md "Cronogram")
+2.[Use Cases Diagram & User Stories/Use Scenario](link "Use Cases Diagram & User Stories/Use Scenario")
 
-3.[Requeriments](link "Requeriments")
+3.[Cass Diagram](link "Use Cases Diagram & User Stories/Use Scenario")
 
-4.[Roles and team process](link "[Roles and team process")
+4.[Prototypes and resources](link "Prototypes and resources")
 
-5.[Prototypes and resources](link "Prototypes and resources")
+♦ [Project Logs](link "Project Logs")
+
+♦ [Schedule, Team Roles & Team Process](link "Schedule")
 
 ♦ [First Deadline](link "First Deadline")
