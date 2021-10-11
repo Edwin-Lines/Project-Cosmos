@@ -28,7 +28,7 @@ The users are students looking to have an extra way to motivate themselves by re
 
 4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios)
 
-5.[Prototypes and Resources](link "Prototypes and Resources")
+5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
 
