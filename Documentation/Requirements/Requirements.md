@@ -16,8 +16,11 @@ And create a more community-friendly space.
 
 ## Functional requirements
 
-*The system will allow access to FMAT students and**
-*he system will allow any text input with more than one character.
-*The system will provide feedback on the approval status of the text entry.
+-The system will allow access to any people.
+
+-Thesystem will allow any text input with more than one character.
+
+-The system will provide feedback on the approval status of the text entry.
+
 
 ## Non-functional requirements
