@@ -13,14 +13,9 @@ Asimismo, al ofrecer ventajas específicas como las siguientes, hemos considerad
 * Métricas visuales
 * Plazos de entregas continuos
 
-## Analisis
-* Lo que se deberia mejorar en el proceso es la manera de interacción ya que esta esta es la primera diferencia del proceso agil scrum y kanban, mientras que scrum maneja entrega de tareas en tiempos estimado kanban no lo maneja. La diferencia de nuestro proceso es que al utilizar la metodologia kanban nos ofrece un entendimiento más visual, con los diagramas de trabajo y la organización de las tareas (además agregando el MVP de kanban: por hacer,en proceso y completado).
-
-## Definicion de requerimientos 
-Para obtener los requerimientos con mayor grado de importancia para el proyecto, el equipo se reunió y mediante una lluvia de ideas de forma grupal, y mediante el trabajo colaborativo de acuerdo a los grupo divididos anteriormente,  se redactó lo que quisiera que el proyecto, en en este caso el juego de mesa, pudiera tener, se definieron los principales requerimientos y fueron plasmados en las sección de [Requerimientos](enlace "Requerimientos").
 
 ## Métodos y herramientas
-## Organización, monitoreo y gestión de tareas y trabajos: Trello
+### Organización, monitoreo y gestión de tareas y trabajos: Trello
 Microsoft Planner es una herramienta de trabajo o aplicación de planificación disponible de la plataforma Microsoft Office 365 que impulsa a los equipos para ejecutar procesos, proyectos y tareas diarias de una forma más sencilla, siendo ideal para aquellos equipos que están comenzando en la parte de organización y representa de forma más visual. Ofrece características de funcionamiento más personalizadas, siendo que permita un fácil uso de planificación de tareas en distintos apartados que pueden ser creados para una sencilla distribución de trabajo de acuerdo a la fase de desarrollo en la que se encuentra un proyecto.
 Elegimos esta plataforma por tres razones en específico: la facilidad de uso que proporciona, las funcionalidades que ofrece para una comprensión más facil de la gestión de tareas, y principalmente por su acceso gratuito que presentamos nosotros como estudiantes pertenecientes a una insitución.  
 Esta herramienta nos proporciona muchas funcionalidades útiles relacionadas a la organización y monitoreo, de forma que podemos mencionar algunas de las más notables y el como se adaptan a nuestro proyecto:
@@ -31,7 +26,7 @@ Esta herramienta nos proporciona muchas funcionalidades útiles relacionadas a l
 
 * **Estadísticas y gráficos:** Esta plataforma ofrece el uso de gráficos para adaptar la información en un medio más fácil de entender e inclusive las tareas dentro de un calendario.
 
-## Comunicación: Whatsapp y Discord
+### Comunicación: Whatsapp y Discord
 Utilizamos Whastapp y Discord como herramientas de comunicación en el equipo, principalmente por la facilidad que ambas tienen para su manejo. Ambas ofrecen las funciones principales de mensajería y llamada, siendo que uno sea usada para mensajes y notificaciones rápidas, y la otra plataforma para las reuniones e ideas principales del proyecto, de forma que pudimos adaptar las siguientes funcionalidades para su manejo:
 * **Mensajería:** La mayoría del equipo está más conectado o presente en Whatsapp, por lo que usamos esta aplicación para ponernos de acuerdo en cuanto a fechas de reuniones o algunos mensajes rápidos de avisos; Discord, por otra parte, la usamos principalmente para dar las ideas que tengamos sobre el proyecto o las modificaciones que podríamos hacer dentro del mismo al ofrecer las diversas secciones que uno puede personalizar dentro de un server.
 
