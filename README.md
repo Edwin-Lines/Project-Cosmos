@@ -9,7 +9,9 @@
 * **Geovanna Fernanda De la cruz Medina** - [@userName](link_to_profile "@userName")
 
 ## Objective
-ADD objective
+* The main objective
+
+* **Innovación y Creatividad:** Esta herramienta creativa concentra los conocimientos esperados dentro del aprendizaje del manejo de software, por lo que incluye situaciones reales ocurridos a empresas de gran renombre e ingenieros que vivieron los situaciones de forma personal proponiendo de forma innovadora un medio de aprendizaje didáctico, interactivo y dinámico que al mismo tiempo funciona como un medio de entretenimiento.
 
 ## Description
 “Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived through out this year.
