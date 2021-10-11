@@ -20,15 +20,15 @@
 The users are students looking to have an extra way to motivate themselves by reading positive stories or experiences from a personal or academic point of view, while seeking possible advice that could be taken from them. And it's also important to mention the participation of moderators to allow a better experience.
 
 ## Index
-1.[Requirements](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md)
+1.[Requirements](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md "Requirements")
 
-2.[Use Cases Diagram & User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram,%20User%20Stories%20&%20Use%20Scenarios "Use Cases Diagram & User Stories/Use Scenario")
+2.[Use Cases Diagram & User Stories/Use Scenarios](link "Use Cases Diagram & User Stories/Use Scenarios")
 
 3.[Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/Use%20Cases "Use Cases")
 
 4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios)
 
-5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources)
+5.[Prototypes and Resources](link "Prototypes and Resources")
 
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
 
