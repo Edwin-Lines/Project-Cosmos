@@ -1,14 +1,16 @@
 # **Team Roles and Tasks** 
 
-La asignación de roles, con sus tareas respectivas, quedaron de la siguiente forma:
-* Edwin: *Team lider/develment member*
+Role division and task assignation are organized as follow:  
+* Edwin: *Team lider/develoment member*
 * Fernan: *Development lider*
-* Karyme: *Documentation lider/develment member*
-* Geovanna: *Documentation member/develment member*
+* Karyme: *Documentation lider/develoment member*
+* Geovanna: *Documentation member/develoment member*
 
-Para cada miembro del equipo se le es asignado una tarea otorgada de acuerdo a las capacidades y habilidades que tiene cada integrante. Cada tarea tiene una prioridad y complejidad identificada, siendo que estas se dividan de tal forma que todo el equipo tenga un balance entre las tareas.
+For each member of the team, a task is assigned to them according to the capacities and abilities that has each member. As such, each task has a priority and complexity identified, as these ones are divided between all members keeping a balanced in amount of work that each member receives. 
 
-Para llevar un control de las tareas cumplidas y a realizar se está utilizando la herramienta de Trello, como anteriormente hemos mencionado. En esta herramienta se marca con un color la etiqueta que describe el estado en el que se encuentra la tarea a realizar, y se nombra al responsable de esa tarea específica. También gracias a las metricas de la herramienta podemos medir la participación y desempeño de cada integrante de acuerdo a las secciones del proyecto. Asimismo, para llevar un porcentaje de contribución por integrantes, se utilizaron los siguiente criterios
+For this, the tool of Trello is used to organize and register the tasks that are completed for each member. In this tool, each task allows the use of checklists, tags, and specific dates in which a task must be completed, simplifying the understanding of the task; as well, a person in charge is named for the task according to its role in the team. 
+
+Using this role division and tool, an individual contribution document can be created in which the team can use metrics such as the number of hours that are needed and used for each task, making the measurement of individual percentage in the project possible as shown in the next tracker:
 
 
 ![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/ProjectCosmos_LogoAlfa.jpg)
