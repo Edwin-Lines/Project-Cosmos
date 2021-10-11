@@ -4,8 +4,6 @@ To establish the functional and non-functional requirements, we took into accoun
 the answers we obtained through a survey we conducted with students from the 3rd semester of 
 the Faculty of Mathematics.
 
-**Modificar la imagen para que contenga subtitulos en ingles, y luego usar esa imagen en esta parte**
-
 ![Survey](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/SURVEY_IMAGE_2.jpg)
 
 According to the answers on a scale of 1 to 10 students think on average that 7.61 is the rating 
