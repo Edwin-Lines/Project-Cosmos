@@ -6,7 +6,7 @@
 * **Edwin Alonso Andrade Ac** - [@Edwin-Lines](https://github.com/Edwin-Lines "@Edwin-Lines")
 * **Fernan Cetina Escalante** - [@FernanCetinaE](https://github.com/FernanCetinaE "@FernanCetinaE") 
 * **Karyme Maylin Bautista Poot** - [@karyme-hub](https://github.com/karyme-hub "@karyme-hub")
-* **Geovanna Fernanda De la cruz Medina** - [@userName](link_to_profile "@userName")
+* **Geovanna Fernanda De la cruz Medina** - [@Geovanna-med](https://github.com/Geovanna-med "@Geovanna-med")
 
 ## Objective
 * The main objective
