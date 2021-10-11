@@ -1,4 +1,4 @@
-# **Team Roles and tasks** 
+# **Team Roles and Tasks** 
 
 La asignación de roles, con sus tareas respectivas, quedaron de la siguiente forma:
 * Edwin: *Team lider/develment member*
