@@ -8,6 +8,9 @@
 * **Karyme Maylin Bautista Poot** - [@karyme-hub](https://github.com/karyme-hub "@karyme-hub")
 * **Geovanna Fernanda De la cruz Medina** - [@userName](link_to_profile "@userName")
 
+## Objective
+ADD objective
+
 ## Description
 “Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students to motivate readers to work harder. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived through out this year.
 
