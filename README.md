@@ -19,9 +19,11 @@ The users are students looking to have an extra way to motivate themselves by re
 
 2.[Use Cases Diagram & User Stories/Use Scenarios](link "Use Cases Diagram & User Stories/Use Scenario")
 
-3.[Cass Diagram](link "Use Cases Diagram & User Stories/Use Scenario")
+3.[Use Cases](link "Use Cases")
 
-4.[Prototypes and resources](link "Prototypes and resources")
+4.[Class Diagram](link "Use Cases Diagram & User Stories/Use Scenario")
+
+5.[Prototypes and resources](link "Prototypes and resources")
 
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
 
