@@ -22,7 +22,7 @@ The users are students looking to have an extra way to motivate themselves by re
 ## Index
 1.[Requirements](link "Requirements")
 
-2.[Use Cases Diagram & User Stories/Use Scenarios](link "Use Cases Diagram & User Stories/Use Scenario")
+2.[Use Cases Diagram & User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram,%20User%20Stories%20&%20Use%20Scenarios "Use Cases Diagram & User Stories/Use Scenario")
 
 3.[Use Cases](link "Use Cases")
 
