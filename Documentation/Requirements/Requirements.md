@@ -27,3 +27,7 @@ And create a more community-friendly space.
 
 
 ## Non-functional requirements
+
+
+ ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
+ ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios "Next")
