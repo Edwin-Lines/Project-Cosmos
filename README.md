@@ -12,7 +12,7 @@
 ADD objective
 
 ## Description
-“Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students to motivate readers to work harder. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived through out this year.
+“Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived through out this year.
 
 ## Users
 The users are students looking to have an extra way to motivate themselves by reading positive stories or experiences from a personal or academic point of view, while seeking possible advice that could be taken from them. And it's also important to mention the participation of moderators to allow a better experience.
