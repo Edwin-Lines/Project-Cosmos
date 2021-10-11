@@ -1,3 +1,3 @@
-descripcion 
+Template of contribution tracker
 
-![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/ProjectCosmos_LogoAlfa.jpg)
+![contribution tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/template%20contribution%20tracker.png)
