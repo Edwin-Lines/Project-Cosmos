@@ -10,4 +10,4 @@
 
 [Meeting 1](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Project%20Logs/First%20Deadline%20Logs/1.%20TM_16-09-2021.md)
 
-[Meeting 2](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Project%20Logs/First%20Deadline%20Logs/Date:dd-mm-aaaaa.md)
+[Meeting 2](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Project%20Logs/First%20Deadline%20Logs/TM_22-09-2021.md)
