@@ -1,4 +1,5 @@
 # User Stories
+Es inglés
 1. COMO <rol> QUIERO<evento, hacer> PARA <funcionalidad>
 2. COMO <rol> QUIERO<evento, hacer> PARA <funcionalidad>
 3. COMO <rol> QUIERO<evento, hacer> PARA <funcionalidad>
