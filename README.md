@@ -9,13 +9,13 @@
 * **Geovanna Fernanda De la cruz Medina** - [@Geovanna-med](https://github.com/Geovanna-med "@Geovanna-med")
 
 ## Objective
-* The main objective of the project is the recompilation of data about positive experiences of students and the publication of them in a space inside a platform, mainly working as a complementary tool.
+* The main objective of the project is the recollection of data about positive experiences of students and the publication of them in a space inside a platform, mainly working as a complementary tool.
 
 * **Innovation and creativity:** This tool uses the paradigm of Object Oriented Programming, which includes the abstraction process of the necessary items or objects of this project. By using the ideas and concepts of this paradigm, one can think of tools that can be implemented in platforms commonly use by students, in this case, an interactive space that works both as metric to measure our understanding of the knowledge learn so far, and as a tool for students to further their social interaction between them using a simple tool.
 
 
 ## Description
-“Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived through out this year.
+“Project Cosmos” is a project about creating a complementing tool that offers a space for students to share their stories and experiences to other students. This project allows a healthy exchange of experiences in a common academic platform, so student can have a space available to advice other people and even tell interesting stories they have lived throughout this year.
 
 ## Users
 The users are students looking to have an extra way to motivate themselves by reading positive stories or experiences from a personal or academic point of view, while seeking possible advice that could be taken from them. And it's also important to mention the participation of moderators to allow a better experience.
