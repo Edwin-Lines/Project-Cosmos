@@ -16,11 +16,11 @@ And create a more community-friendly space.
 
 # User Requeriments
 **User: Person using the system**
--The user will be able to navigate inside the platform
+- The user will be able to navigate inside the platform
 
--The user can to input a text
+- The user can to input a text
 
--The user will be able to access the published entries.
+- The user will be able to access the published entries.
 
 
 # System Requeriments
@@ -29,24 +29,24 @@ And create a more community-friendly space.
 
 
 **FR001** 
--Priority:High
--Description:The system will allow any text input with more than one character.
+- Priority:High
+- Description:The system will allow any text input with more than one character.
 
 **FR002** 
--Priority:High
--Description: The system will allow only moderator manager or moderators to approve, delete or update entries
+- Priority:High
+- Description: The system will allow only moderator manager or moderators to approve, delete or update entries
 
 **FR003** 
--Priority:High
--Description:The system will allow the moderator manager or moderators assign a qualification in according to the evaluation criteria
+- Priority:High
+- Description:The system will allow the moderator manager or moderators assign a qualification in according to the evaluation criteria
 
 **FR004** 
--Priority:Medium
--Description:The system will allow the publication of selected text entries
+- Priority:Medium
+- Description:The system will allow the publication of selected text entries
 
 **FR005** 
--Priority:Low
--Description:The system will contain sections
+- Priority:Low
+- Description:The system will contain sections
 
 
 ## Non-functional requirements
@@ -60,7 +60,7 @@ And create a more community-friendly space.
 - Priority:Low
 - Description: The user will enter a username without restriction
 
-NFR003** 
+**NFR003** 
 - Priority:Medium
 - Description: The system will have a welcome message and instructions to follow
 
