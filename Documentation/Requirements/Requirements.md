@@ -29,15 +29,19 @@ And create a more community-friendly space.
 ## Functional requirements
 
 **FR001** 
--Priority:High
--Description:The system will allow any text input with more than one character.
+- Priority:High
+- Description:The system will allow any text input with more than one character.
 
+**FR002** 
 - The system will allow only moderator manager or moderators to approve, delete or update entries
 
+**FR003** 
 - The system will allow the moderator manager or moderators assign a qualification in according to the evaluation criteria
 
+**FR004** 
 - The system will allow the publication of selected text entries
 
+**FR005** 
 - The system will contain sections
 
 
