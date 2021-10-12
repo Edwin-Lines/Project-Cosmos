@@ -17,9 +17,9 @@ And create a more community-friendly space.
 
 ## Functional requirements
 
--The system will allow access to any people.
+- The system will allow access to any people.
 
--Thesystem will allow any text input with more than one character.
+- The system will allow any text input with more than one character.
 
 
 ## Non-functional requirements
