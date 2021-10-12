@@ -14,14 +14,22 @@ We also talked with an expert in the area of psychology, and he explained to us 
 good idea, but we had to direct it towards a more positive aspect, to avoid touching on sensitive issues.
 And create a more community-friendly space.
 
+# User Requeriments
+**User: Person using the system**
+-The user will be able to navigate inside the platform
+
+-The user can to input a text
+
+-The user will be able to access the published entries.
+
+
+# System Requeriments
 
 ## Functional requirements
 
 - The system will allow access to any people.
 
 - The system will allow any text input with more than one character.
-
-- The user will be able to access the published entries.
 
 - The system will allow only moderator manager or moderators to approve, delete or update entries
 
@@ -35,17 +43,29 @@ And create a more community-friendly space.
 ## Non-functional requirements
 
 
-- The system will be capable of showing the feedback after the user submit the text
+- **NFR001** 
+- Priority:Medium 
+- Description: The system will be capable of showing the feedback after the user submit the text
+- 
+- - **NFR002** 
+- Priority:Low
+- Description: The user will enter a username without restriction
 
-- The user will enter a username without restriction
-
-- The system will have a welcome message and instructions to follow
-
-- The moderator will not be able to evaluate more than once an entry
-
-- The system must have well structures graphic interfaces
-
-- The system will provide feedback on the approval status of the text entry.
+- **NFR003** 
+- Priority:Medium
+- Description: The system will have a welcome message and instructions to follow
+- 
+- **NFR004** 
+- Priority:High
+- Description: The moderator will not be able to evaluate more than once an entry
+- 
+- **NFR005** 
+- Priority:Medium
+- Description: The system must have well structures graphic interfaces
+- 
+- **NFR006** 
+- Priority:High
+- Description: The system will provide feedback on the approval status of the text entry.
  
 
 
