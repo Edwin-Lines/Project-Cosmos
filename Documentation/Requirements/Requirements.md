@@ -23,7 +23,9 @@ And create a more community-friendly space.
 
 - The user will be able to access the published entries.
 
-- The system will allow only administrators or moderators to approve, change or update entries
+- The system will allow only moderator manager or moderators to approve, delete or update entries
+
+- The system will allow the moderator manager or moderators assign a qualification in according to the evaluation criteria
 
 - The system will allow the publication of selected text entries
 
@@ -33,13 +35,15 @@ And create a more community-friendly space.
 ## Non-functional requirements
 
 
-- The system will be capable of showing the feedback in less than 4 seconds after the user submit the text
+- The system will be capable of showing the feedback after the user submit the text
+- 
+- The user will enter a username without restriction
 
 - The system will have a welcome message and instructions to follow
 
-- The system must have well structures graphic interfaces
+- The moderator will not be able to evaluate more than once an entry
 
-- The system must have a "Responsive Design" so the visualization is perfect in every device
+- The system must have well structures graphic interfaces
 
 - The system will provide feedback on the approval status of the text entry.
  
