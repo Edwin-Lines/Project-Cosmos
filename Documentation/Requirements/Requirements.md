@@ -36,7 +36,7 @@ And create a more community-friendly space.
 
 
 - The system will be capable of showing the feedback after the user submit the text
-- 
+
 - The user will enter a username without restriction
 
 - The system will have a welcome message and instructions to follow
