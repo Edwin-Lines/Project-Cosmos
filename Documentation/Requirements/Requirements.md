@@ -34,7 +34,7 @@ And create a more community-friendly space.
 
 
 - The system will be capable of showing the feedback in less than 4 seconds after the user submit the text
-- 
+
 - The system will have a welcome message and instructions to follow
 
 - The system must have well structures graphic interfaces
@@ -42,7 +42,7 @@ And create a more community-friendly space.
 - The system must have a "Responsive Design" so the visualization is perfect in every device
 
 - The system will provide feedback on the approval status of the text entry.
-- 
+ 
 
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
