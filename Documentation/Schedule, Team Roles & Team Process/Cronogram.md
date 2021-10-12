@@ -4,4 +4,4 @@ We will be using the Trello for tasks' distribution and time management, for thi
  ![TrelloBoard](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/TrelloBoard_FirstDeadline.jpg)
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
- ♦ [Next](link "Requeriments")
+ ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Process.md "Team Process")
