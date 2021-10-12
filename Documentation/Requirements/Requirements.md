@@ -21,10 +21,15 @@ And create a more community-friendly space.
 
 -Thesystem will allow any text input with more than one character.
 
--The system will provide feedback on the approval status of the text entry.
-
 
 ## Non-functional requirements
+- The system will be capable of showing the feedback in less than 4 seconds after the user submit the text
+
+- The system must have well structures graphic interfaces
+
+- The system must have a "Responsive Design" so the visualization is perfect in every device
+
+- The system will provide feedback on the approval status of the text entry.
 
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
