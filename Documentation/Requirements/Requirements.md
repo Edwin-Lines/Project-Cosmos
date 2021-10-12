@@ -27,9 +27,9 @@ And create a more community-friendly space.
 
 ## Functional requirements
 
-- The system will allow access to any people.
-
-- The system will allow any text input with more than one character.
+**FR001** 
+-Priority:High
+-Description:The system will allow any text input with more than one character.
 
 - The system will allow only moderator manager or moderators to approve, delete or update entries
 
@@ -43,29 +43,35 @@ And create a more community-friendly space.
 ## Non-functional requirements
 
 
-- **NFR001** 
+
+
+**FR001** 
 - Priority:Medium 
 - Description: The system will be capable of showing the feedback after the user submit the text
-- 
-- - **NFR002** 
+
+**NFR002** 
 - Priority:Low
 - Description: The user will enter a username without restriction
 
-- **NFR003** 
+NFR003** 
 - Priority:Medium
 - Description: The system will have a welcome message and instructions to follow
-- 
-- **NFR004** 
+
+**NFR004** 
 - Priority:High
 - Description: The moderator will not be able to evaluate more than once an entry
-- 
-- **NFR005** 
+
+**NFR005** 
 - Priority:Medium
 - Description: The system must have well structures graphic interfaces
-- 
-- **NFR006** 
+ 
+**NFR006** 
 - Priority:High
 - Description: The system will provide feedback on the approval status of the text entry.
+
+**NFR007 
+- Priority:Medium
+- Description: The system will allow access to anyone
  
 
 
