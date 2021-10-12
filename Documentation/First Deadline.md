@@ -12,6 +12,7 @@
 ## Second Document
 * [Logs](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Project%20Logs/First%20Deadline%20Logs/Important%20Meetings.md "Logs")
 * [Products/Tasks Schedule](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Cronogram.md "Products/Tasks Schedule")
+* [Poducts and Prototypes](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources "Poducts and Prototypes") 
 
 ## Third Document
 * [Team Roles](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Roles.md "Team Roles")
