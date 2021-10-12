@@ -5,7 +5,7 @@
 ## First Document
 * [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md "Requirements")
 * [User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/User%20Stories.md "User Stories/Use Scenarios")
-* [Use Cases](useCases "Use Cases")
+* [Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/USE%20CASE.pdf "Use Cases")
 * [Use Cases Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/Use%20Cases%20Diagram.md "Use Cases Diagram")
 * [Class Diagram Draft](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram Draft")
 
