@@ -1,9 +1,9 @@
 # User Stories
-Es inglés
-1. COMO >rol< QUIERO >evento< PARA >funcionalidad< (Para estudiante)
 
-2. COMO >rol< QUIERO >evento< PARA >funcionalidad< (Para moderador): Analiza la lista de entradas que le da el cordinador y las acepta o rechaza o un censo que se envía al coordinador
-3. COMO >rol< QUIERO >evento< PARA >funcionalidad< (Coordinadores de moderadores): Agarra entradas de base de datos, organiza las listas pra cada moderador y de acuerdo al censo, acepta o rechaza la entrada para su publicación
+1. **AS** a user **I WANT** an anonymous platform **SO** that I can share experiences from the last year
+2. **AS** system moderator **I WANT** to be able to access the created list **SO** I can evaluate them and define their acceptance status for publication
+3. **AS** moderator coordinator **I WANT** to be able to access the database **SO** I can create a list and distribute them to moderators for evaluation
+ 
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
  ♦ [Next](UseCases "Next")
