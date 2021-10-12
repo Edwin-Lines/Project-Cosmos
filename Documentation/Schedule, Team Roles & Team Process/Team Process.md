@@ -33,3 +33,6 @@ Utilizamos Whastapp y Discord como herramientas de comunicación en el equipo, p
 * **Llamadas:** Utilizamos Discord para las reuniones, siendo que está tenga una mayor facilidad de uso y utiliza una cantidad menor de recursos al momento de realizar las llamadas.
 
 * **Discusiones o secciones del proyecto:** Discord cuenta con la opción de crear un servidor el cual puede contener diversas secciones, de este forma, utilizando ese principio lo adaptamos para poder facilitar el intercambio de opiniones e ideas de acuerdo al tema o fase que estemos manejando del proyecto.
+
+ ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
+ ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Roles.md "Team Rples")
