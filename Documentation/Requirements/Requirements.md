@@ -22,9 +22,9 @@ And create a more community-friendly space.
 - The system will allow any text input with more than one character.
 
 - The user will be able to access the published entries.
-- 
+
 - The system will allow only administrators or moderators to approve, change or update entries
-- 
+
 - The system will allow the publication of selected text entries
 
 - The system will contain sections
