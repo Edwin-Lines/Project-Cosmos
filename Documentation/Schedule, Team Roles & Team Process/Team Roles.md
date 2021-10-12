@@ -1,7 +1,7 @@
 # **Team Roles and Tasks** 
 
 Role division and task assignation are organized as follow:  
-* Edwin: *Team lider/develoment member*
+* Edwin: *Team leader/develoment member*
 * Fernan: *Development lider*
 * Karyme: *Documentation lider/develoment member*
 * Geovanna: *Documentation member/develoment member*
