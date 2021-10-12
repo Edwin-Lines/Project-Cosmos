@@ -21,15 +21,28 @@ And create a more community-friendly space.
 
 - The system will allow any text input with more than one character.
 
+- The user will be able to access the published entries.
+- 
+- The system will allow only administrators or moderators to approve, change or update entries
+- 
+- The system will allow the publication of selected text entries
+
+- The system will contain sections
+
 
 ## Non-functional requirements
+
+
 - The system will be capable of showing the feedback in less than 4 seconds after the user submit the text
+- 
+- The system will have a welcome message and instructions to follow
 
 - The system must have well structures graphic interfaces
 
 - The system must have a "Responsive Design" so the visualization is perfect in every device
 
 - The system will provide feedback on the approval status of the text entry.
+- 
 
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
