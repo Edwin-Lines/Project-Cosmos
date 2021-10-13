@@ -19,7 +19,7 @@ And create a more community-friendly space.
 
 - The user will be able to navigate inside the platform
 
-- The user can to input a text
+- The user can input media
 
 - The user will be able to access the published entries.
 
@@ -36,10 +36,10 @@ And create a more community-friendly space.
 - The system will allow only moderator manager or moderators to approve, delete or update entries
 
 **FR003** 
-- The system will allow the moderator manager or moderators assign a qualification in according to the evaluation criteria
+- The system will allow the moderator manager or moderators to assign a qualification in according to the evaluation criteria
 
 **FR004** 
-- The system will allow the publication of selected text entries
+- The system will allow the publication of selected entries
 
 **FR005** 
 - The system will contain sections
@@ -52,7 +52,7 @@ And create a more community-friendly space.
 
 **FR001** 
 - Priority:Medium 
-- Description: The system will be capable of showing the feedback after the user submit the text
+- Description: The system will be capable of showing the feedback after the user submit the data
 
 **NFR002** 
 - Priority:Low
@@ -72,7 +72,7 @@ And create a more community-friendly space.
  
 **NFR006** 
 - Priority:High
-- Description: The system will provide feedback on the approval status of the text entry.
+- Description: The system will provide feedback on the approval status of the entry.
 
 **NFR007**
 - Priority:Medium
