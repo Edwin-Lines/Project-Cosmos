@@ -1,6 +1,6 @@
 # First Deadline Files
 
-* [Video Presentation](VideoPresentation "Video Presentation")
+* [Video Presentation](https://youtu.be/SEaFV820FSQ "Video Presentation")
 
 ## First Document
 * [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md "Requirements")
