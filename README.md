@@ -31,6 +31,8 @@ The users are students looking to have an extra way to motivate themselves by re
 
 5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
+6.[Video Presentation](https://youtu.be/SEaFV820FSQ "Video Presentation")
+
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
 
 ♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process")
