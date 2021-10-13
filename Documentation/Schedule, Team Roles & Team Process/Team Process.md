@@ -8,7 +8,7 @@ In this project we will be making use of the agile Kanban methodology since it p
 - **Flexibility:** This methodology offers the opportunity to make certain changes according to the needs of the moment, and this can be seen directly at the time of the organization of tasks, as they may have planned a period of time for some tasks without taking into account that some situation may arise where it is necessary to reorganize the priority of the same; this is a very important utility within this project.
 
 ## Methods and tools
-### Organización, monitoreo y gestión de tareas y trabajos: Trello
+### Organization, monitoring and task/jobs management: Trello
 By working using the *Trello* tool, we have been able to elaborate cards with the tasks or roles of each member while showing the importance of the same, being that this is available to all team members, thus avoiding the repetition of tasks or the possibility of forgetting any of them, making our productivity and efficiency to improve when working as a team.
 Also, by offering specific advantages such as the following, we have considered that it will provide us with greater organization within the development of the project.
 * Tasks planning
