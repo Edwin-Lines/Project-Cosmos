@@ -21,20 +21,20 @@
 The users are students looking to have an extra way to motivate themselves by reading positive stories or experiences from a personal or academic point of view, while seeking possible advice that could be taken from them. And it's also important to mention the participation of moderators to allow a better experience.
 
 ## Index
-1.[Requirements](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md "Requirements")
+1.[Requirements](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Requirements "Requirements")
 
-2.[Use Cases Diagram & User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios "Use Cases Diagram & User Stories/Use Scenarios")
+2.[Use Cases Diagram & User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios "Use Cases Diagram & User Stories/Use Scenarios")
 
-3.[Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/USE%20CASE.pdf "Use Cases")
+3.[Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/USE%20CASE.pdf "Use Cases")
 
-4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram")
+4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Use%20Cases%20Diagram,%20User%20Stories%20&%20Use%20Scenarios/Use%20Class%20Diagram.md "Class Diagram")
 
-5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
+5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
-6.[Video Presentation](https://youtu.be/SEaFV820FSQ "Video Presentation")
+6.[Video Presentation 1](https://youtu.be/SEaFV820FSQ "Video Presentation")
 
-♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Project%20Logs "Project Logs")
+♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Project%20Logs "Project Logs")
 
-♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process")
+♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process")
 
-♦ [First Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/First%20Deadline.md "First Deadline")
+♦ [First Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/First%20Deadline.md "First Deadline")
