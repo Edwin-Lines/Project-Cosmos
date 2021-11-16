@@ -1,6 +1,6 @@
 # Project Cosmos
 
-![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Resources/Images/ProjectCosmos_LogoAlfa.jpg)
+![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Resources/Images/ProjectCosmos_LogoBeta.png)
 
 ## Authors ✒️
 * **Edwin Alonso Andrade Ac** - [@Edwin-Lines](https://github.com/Edwin-Lines "@Edwin-Lines")
