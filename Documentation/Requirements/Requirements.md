@@ -17,13 +17,13 @@ And create a more community-friendly space.
 # User Requeriments
 **User: Person using the system**
 
-- The user will be able to navigate inside the platform (Discord)
+- The user will be able to navigate using the graphic interface of Discord when using the bot.
 
-- The user can input text entries
+- The user can input text entries.
 
-- The user will be able to request and view the published entries
+- The user will be able to request and view the published entries.
 
-- The user has to add bot to discord server
+- The user is able to add the bot to a discord server.
 
 
 # System Requeriments
@@ -34,13 +34,13 @@ And create a more community-friendly space.
 - The system will allow any text input with more than one character.
 
 **FR002** 
-- The system will allow only moderator manager or moderators to approve, delete or update entries
+- The system will allow only the users with the manager role to approve, delete or update entries.
 
 **FR003** 
-- The system will allow the moderator manager or moderators to assign a qualification in according to the evaluation criteria
+- The system will allow only the users with the moderator role to assign a qualification score to an entry according to the [evaluation criteria](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Prototypes%20and%20Resources/Rubric%20for%20post.pdf).
 
 **FR004** 
-- The system will allow the publication of selected entries
+- The system will allow the publication of the selected entries.
 
 
 ## Non-functional requirements
@@ -48,19 +48,19 @@ And create a more community-friendly space.
 
 **FR001** 
 - Priority:Medium 
-- Description: The system provides a message indicating that the entry was received
+- Description: The system provides a message indicating that the entry was received.
 
 **NFR002** 
 - Priority:Medium
-- Description: The system will have a welcome message and a message with the commands to be able to use the bot
+- Description: The system will have messages with the commands for the bot funcionalities once the user introduce the commands asking for an specific one.
 
 **NFR003** 
 - Priority:High
-- Description: The moderator will not be able to evaluate more than once an entry
+- Description: The moderator will not be able to evaluate more than once an entry.
 
 **NFR004**
 - Priority:Medium
-- Description: The system will allow access to any user who has a Discord account
+- Description: The system will allow access to any user who has a Discord account.
  
 
 
