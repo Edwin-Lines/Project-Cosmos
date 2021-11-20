@@ -17,11 +17,13 @@ And create a more community-friendly space.
 # User Requeriments
 **User: Person using the system**
 
-- The user will be able to navigate inside the platform
+- The user will be able to navigate inside the platform (Discord)
 
-- The user can input media
+- The user can input text entries
 
-- The user will be able to access the published entries.
+- The user will be able to request and view the published entries
+
+- The user has to add bot to discord server
 
 
 # System Requeriments
@@ -40,42 +42,25 @@ And create a more community-friendly space.
 **FR004** 
 - The system will allow the publication of selected entries
 
-**FR005** 
-- The system will contain sections
-
 
 ## Non-functional requirements
 
 
-
-
 **FR001** 
 - Priority:Medium 
-- Description: The system will be capable of showing the feedback after the user submit the data
+- Description: The system provides a message indicating that the entry was received
 
 **NFR002** 
-- Priority:Low
-- Description: The user will enter a username without restriction
+- Priority:Medium
+- Description: The system will have a welcome message and a message with the commands to be able to use the bot
 
 **NFR003** 
-- Priority:Medium
-- Description: The system will have a welcome message and instructions to follow
-
-**NFR004** 
 - Priority:High
 - Description: The moderator will not be able to evaluate more than once an entry
 
-**NFR005** 
+**NFR004**
 - Priority:Medium
-- Description: The system must have well structures graphic interfaces
- 
-**NFR006** 
-- Priority:High
-- Description: The system will provide feedback on the approval status of the entry.
-
-**NFR007**
-- Priority:Medium
-- Description: The system will allow access to anyone
+- Description: The system will allow access to any user who has a Discord account
  
 
 
