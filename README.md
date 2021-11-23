@@ -38,3 +38,6 @@ The users are students looking to have an extra way to motivate themselves by re
 ♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process")
 
 ♦ [First Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/First%20Deadline.md "First Deadline")
+
+♦[Second Deadline]()
+
