@@ -34,7 +34,7 @@ And create a more community-friendly space.
 - The system will allow any text input with more than one character.
 
 **FR002** 
-- The system will allow only the users with the manager role to approve, delete or update entries.
+- The system will allow only the users with the manager role to delete entries.
 
 **FR003** 
 - The system will allow only the users with the moderator role to assign a qualification score to an entry according to the [evaluation criteria](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Prototypes%20and%20Resources/Rubric%20for%20post.pdf).
@@ -52,11 +52,11 @@ And create a more community-friendly space.
 
 **NFR002** 
 - Priority:Medium
-- Description: The system will have messages with the commands for the bot functionalities once the user introduce the commands asking for an specific one.
+- Description: The system will have messages with the commands for the bot functionalities once the user introduces the commands asking for an specific one.
 
 **NFR003** 
 - Priority:High
-- Description: The moderator will not be able to evaluate more than once an entry.
+- Description: The moderator will not be able to change the content of an entry
 
 **NFR004**
 - Priority:Medium
