@@ -52,7 +52,7 @@ And create a more community-friendly space.
 
 **NFR002** 
 - Priority:Medium
-- Description: The system will have messages with the commands for the bot funcionalities once the user introduce the commands asking for an specific one.
+- Description: The system will have messages with the commands for the bot functionalities once the user introduce the commands asking for an specific one.
 
 **NFR003** 
 - Priority:High
