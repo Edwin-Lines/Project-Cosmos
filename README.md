@@ -31,7 +31,9 @@ The users are students looking to have an extra way to motivate themselves by re
 
 5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
-6.[Video Presentation 1](https://youtu.be/SEaFV820FSQ "Video Presentation")
+6.[Video Presentation of First Deadline](https://youtu.be/SEaFV820FSQ "Video Presentation")
+
+7.[Video Presentation of Second Deadline](https://www.youtube.com/watch?v=Q4KA9vgYj90 "Video Presentation")
 
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Project%20Logs "Project Logs")
 
