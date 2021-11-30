@@ -39,5 +39,5 @@ The users are students looking to have an extra way to motivate themselves by re
 
 ♦ [First Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/First%20Deadline.md "First Deadline")
 
-♦[Second Deadline]()
+♦[Second Deadline]( "Second Deadline")
 
