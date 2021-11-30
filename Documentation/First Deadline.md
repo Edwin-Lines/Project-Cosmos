@@ -16,3 +16,6 @@
 
 ## Third Document
 * [Team Roles and Individual Contribution Tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Roles.md "Team Roles")
+
+ ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline) 
+ ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Second%20Deadline.md "Next")
