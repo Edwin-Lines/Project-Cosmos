@@ -43,5 +43,5 @@ The users are students looking to have an extra way to motivate themselves by re
 
 ♦ [Second Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Second%20Deadline.md "Second Deadline")
 
-♦ [Final Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Second%20Deadline.md "Third Deadline")
+♦ [Final Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Final%20Deadline.md "Third Deadline")
 
