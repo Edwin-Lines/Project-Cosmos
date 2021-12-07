@@ -27,7 +27,7 @@ The users are students looking to have an extra way to motivate themselves by re
 
 3.[Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Use%20Cases%20Diagram,%20User%20Stories%20&%20Use%20Scenarios/USE%20CASE%201.pdf "Use Cases")
 
-4.[Class Diagram](A AGREGAR "Class Diagram")
+4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram")
 
 5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
