@@ -27,21 +27,21 @@ The users are students looking to have an extra way to motivate themselves by re
 
 3.[Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Use%20Cases%20Diagram,%20User%20Stories%20&%20Use%20Scenarios/USE%20CASE%201.pdf "Use Cases")
 
-4.[Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram")
+4.[Class Diagram](A AGREGAR "Class Diagram")
 
-5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
+5.[Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 
 6.[Video Presentation of First Deadline](https://youtu.be/SEaFV820FSQ "Video Presentation")
 
 7.[Video Presentation of Second Deadline](https://www.youtube.com/watch?v=Q4KA9vgYj90 "Video Presentation")
 
-♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Project%20Logs "Project Logs")
+♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Project%20Logs "Project Logs")
 
-♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Second-Deadline/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process "Schedule, Team Roles & Team Process")
+♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process "Schedule, Team Roles & Team Process")
 
 ♦ [First Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/First%20Deadline.md "First Deadline")
 
-♦ [Second Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Second%20Deadline.md "Second Deadline")
+♦ [Second Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/First%20Deadline.md "Second Deadline")
 
-♦ [Thrid Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Documentation/Third%20Deadline.md "Third Deadline")
+♦ [Thrid Deadline](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Second%20Deadline.md "Third Deadline")
 
