@@ -11,7 +11,7 @@
 
 ## Design
 * MAPEO DE LOS REQUERIMIENTOS
-* [Class Diagram](TO BE ADDED "Class Diagram")
+* [Class Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram")
 * [Package Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Resources/Images/PackageDiagram.png "Package Diagram")
 
 ## Implementation
