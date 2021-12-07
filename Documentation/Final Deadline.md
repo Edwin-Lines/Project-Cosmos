@@ -2,6 +2,7 @@
 
 * [Video Presentation](TO BE ADDED "Video Presentation")
 * [Presentation](TO BE ADDED "Video Presentation")
+* [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Project%20Logs "Project Logs")
 
 ## Requirements
 * [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Requirements/Requirements.md "Requirements")
