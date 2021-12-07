@@ -1,6 +1,7 @@
 # Final Deadline Files
 
-* [Video Presentation](https://youtu.be/SEaFV820FSQ "Video Presentation")
+* [Video Presentation](TO BE ADDED "Video Presentation")
+* [Presentation](TO BE ADDED "Video Presentation")
 
 ## Requirements
 * [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Requirements/Requirements.md "Requirements")
