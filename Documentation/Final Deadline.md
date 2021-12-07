@@ -2,19 +2,26 @@
 
 * [Video Presentation](https://youtu.be/SEaFV820FSQ "Video Presentation")
 
-## First Document
-* [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Requirements/Requirements.md "Requirements")
-* [User Stories/Use Scenarios](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/User%20Stories.md "User Stories/Use Scenarios")
-* [Use Cases](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/USE%20CASE.pdf "Use Cases")
-* [Use Cases Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/Use%20Cases%20Diagram.md "Use Cases Diagram")
-* [Class Diagram Draft](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Prototypes%20and%20Resources/Class%20Diagram.md "Class Diagram Draft")
+## Requirements
+* [Requirement Documents](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Requirements/Requirements.md "Requirements")
+* [Use Cases Diagram](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Use%20Cases%20Diagram%2C%20User%20Stories%20%26%20Use%20Scenarios/Use%20Class%20Diagram.md "Use Cases Diagram")
+* EVOLUTION (TO BE ADDED)
 
-## Second Document
-* [Logs](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Project%20Logs/First%20Deadline%20Logs/Important%20Meetings.md "Logs")
-* [Products/Tasks Schedule](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Cronogram.md "Products/Tasks Schedule")
-* [Poducts and Prototypes](https://github.com/Edwin-Lines/Project-Cosmos/tree/main/Documentation/Prototypes%20and%20Resources "Poducts and Prototypes") 
+## Design
+* MAPEO DE LOS REQUERIMIENTOS
+* [Class Diagram](TO BE ADDED "Class Diagram")
+* [Package Diagram](TO BE ADDED "Package Diagram")
 
-## Third Document
-* [Team Roles and Individual Contribution Tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Roles.md "Team Roles")
+## Implementation
+* [Final Code Version](TO BE ADDED "Final Code Version")
+* [Individual Repository Contribution Tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Resources/Images/IndividualRepositoryContribution.png "Individual Repository Contribution Tracker")
+
+## Development Process
+* [Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
+* [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process "Schedule, Team Roles & Team Process")
+* [Individual Contribution Tracker](ADD TRELLO CONTRIBUTION TRACKER "Individual Contribution Tracker")
+
+## Additional Elements
+* [Database](TO BE ADDED "Database")
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline) 
