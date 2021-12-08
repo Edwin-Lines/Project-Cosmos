@@ -20,7 +20,7 @@
 ## Development Process
 * [Prototypes and Resources](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Prototypes%20and%20Resources "Prototypes and Resources")
 * [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process "Schedule, Team Roles & Team Process")
-* [Individual Contribution Tracker](ADD TRELLO CONTRIBUTION TRACKER "Individual Contribution Tracker")
+* [Individual Contribution Tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process/Team%20Roles.md "Individual Contribution Tracker")
 
 ## Additional Elements
 * [Database](TO BE ADDED "Database")
