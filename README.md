@@ -35,6 +35,8 @@ The users are students looking to have an extra way to motivate themselves by re
 
 7.[Video Presentation of Second Deadline](https://www.youtube.com/watch?v=Q4KA9vgYj90 "Video Presentation")
 
+8.[Video Presentation of Final Deadline](https://www.youtube.com/watch?v=sObvFmhgl40 "Video Presentation")
+
 ♦ [Project Logs](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Project%20Logs "Project Logs")
 
 ♦ [Schedule, Team Roles & Team Process](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process "Schedule, Team Roles & Team Process")
