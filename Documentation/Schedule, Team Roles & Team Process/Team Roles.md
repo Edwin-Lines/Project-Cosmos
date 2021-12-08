@@ -17,4 +17,4 @@ Using this role division and tool, an individual contribution document can be cr
 For the last increment we all gave a 100% of our time, energy and resoruces. And, as we approach our final deadline we have nothing but to thank our team
 and give each member a 20% of recognition of the overall achievement, meaning that we all worked equally.
 
- ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
+ ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Final%20Deadline.md "Main Page") 
