@@ -28,5 +28,5 @@ We used Whastapp and Discord as communication tools in the team, mainly because 
 
 * **Meetings with the mentor:** Teams allows us to schedule calls and organize our time with respect to our academic activities; it is a robust platform, with no time limits, permissions and easy to use.
 
- ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
- ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/blob/main/Documentation/Schedule%2C%20Team%20Roles%20%26%20Team%20Process/Team%20Roles.md "Team Rples")
+ ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline "Main Page") 
+ ♦ [Next](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process/Team%20Roles.md "Team Rples")
