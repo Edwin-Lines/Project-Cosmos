@@ -24,6 +24,6 @@
 * [Individual Contribution Tracker](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Schedule,%20Team%20Roles%20&%20Team%20Process/Team%20Roles.md "Individual Contribution Tracker")
 
 ## Additional Elements
-* [Database](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Prototypes%20and%20Resources/Additional%20Elements.md "Final thoughts")
+* [Final thoughts](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Documentation/Prototypes%20and%20Resources/Additional%20Elements.md "Final thoughts")
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos/tree/Third-Deadline) 
