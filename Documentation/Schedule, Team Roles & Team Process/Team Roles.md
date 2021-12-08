@@ -12,6 +12,9 @@ For this, the tool of Trello is used to organize and register the tasks that are
 
 Using this role division and tool, an individual contribution document can be created in which the team can use metrics such as the number of hours that are needed and used for each task, making the measurement of individual percentage in the project possible as shown in the next tracker:
 
-![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/Second-Deadline/Resources/Images/second%20increment%20contribution%20tracker.png)
+![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Resources/Documents/contribution%20tracker%20last%20sprint.png)
+
+For the last increment we all gave a 100% of our time, energy and resoruces. And, as we approach our final deadline we have nothing but to thank our team
+and give each member a 20% of recognition of the overall achievement, meaning that we all worked equally.
 
  ♦[Main Page](https://github.com/Edwin-Lines/Project-Cosmos "Main Page") 
