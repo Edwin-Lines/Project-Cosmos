@@ -14,7 +14,7 @@ Using this role division and tool, an individual contribution document can be cr
 
 ![Logo](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Resources/Documents/contribution%20tracker%20last%20sprint.png)
 
-Using the following formula in order to objectively assess our contributions
+Using the following formula in order to objectively assess our contributions:
 ![Formula](https://github.com/Edwin-Lines/Project-Cosmos/blob/Third-Deadline/Resources/Documents/CT%20formula.png)
 
 For the last increment we all gave a 100% of our time, energy and resoruces. And, as we approach our final deadline we have nothing but to thank our team
